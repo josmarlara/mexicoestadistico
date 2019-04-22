@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mexicoestadistico</string>
+    <string name="estado_prompt">Seleccione un estado</string>
+</resources>
